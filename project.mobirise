@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AzerothShard",
-    "currentPage": "index.html",
+    "currentPage": "naxxramas2018.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -100,7 +100,7 @@
           "title": "NAXXRAMAS <br>FIRST KILL",
           "text": "Naxxramas è una gigantesca necropoli che fluttua sopra la Fortezza di Wintergarde. Ha l'onore di essere il seggio di uno degli ufficiali più potenti del Re dei Lich, il temuto lich Kel'Thuzad!",
           "text2": "GUARDA IL TRAILER",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEGGI LA GUIDA</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3905/#p12879\" data-toolbar=\"-mbrBtnMove\">LEGGI LA GUIDA</a> ",
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "alias": "colorm/components",
           "_tags": [
