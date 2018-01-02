@@ -208,7 +208,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -630,7 +630,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1394,7 +1394,7 @@
             "showText": true,
             "showButtons": true,
             "showVideo": true,
-            "VideoUrl": "https://www.youtube.com/watch?v=IBHL_-biMrQ",
+            "VideoUrl": "https://www.youtube.com/embed/IBHL_-biMrQ?start=7",
             "showArrow": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/10.jpg",
@@ -1404,7 +1404,7 @@
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/IBHL_-biMrQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=IBHL_-biMrQ",
+              "rawUrl": "https://youtu.be/IBHL_-biMrQ?t=7",
               "width": 1280,
               "height": 720
             },
@@ -1537,7 +1537,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
