@@ -86,7 +86,7 @@ textarea,
 .btn-primary {
   background-color: #f1c40f;
   border-color: #f1c40f;
-  color: #ffffff;
+  color: #000000;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -106,7 +106,7 @@ textarea,
 .btn-secondary {
   background-color: #ac2ae1;
   border-color: #ac2ae1;
-  color: #ffffff;
+  color: #000000;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
@@ -126,7 +126,7 @@ textarea,
 .btn-info {
   background-color: #3498db;
   border-color: #3498db;
-  color: #ffffff;
+  color: #000000;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -146,7 +146,7 @@ textarea,
 .btn-success {
   background-color: #27ae60;
   border-color: #27ae60;
-  color: #ffffff;
+  color: #000000;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -166,7 +166,7 @@ textarea,
 .btn-warning {
   background-color: #f1c40f;
   border-color: #f1c40f;
-  color: #ffffff;
+  color: #000000;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -186,7 +186,7 @@ textarea,
 .btn-danger {
   background-color: #e74c3c;
   border-color: #e74c3c;
-  color: #ffffff;
+  color: #000000;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -916,6 +916,12 @@ blockquote {
 }
 #header9-i .mbr-section-title {
   color: #f1c40f;
+}
+#call5-1s .mbr-section-title {
+  color: #f1c40f;
+}
+#call5-1s .mbr-section-text {
+  color: #ffffff;
 }
 #slider3-1r .mbr-section-title,
 #slider3-1r .mbr-section-text {

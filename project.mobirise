@@ -7,7 +7,7 @@
       "title": "ColorM",
       "styling": {
         "primaryColor": "#f1c40f",
-        "buttonsColor": "#ffffff",
+        "buttonsColor": "#000000",
         "secondaryColor": "#ac2ae1",
         "successColor": "#27ae60",
         "infoColor": "#3498db",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 65,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -845,18 +845,44 @@
           "_anchor": "header9-i"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f1c40f"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3902/#p12876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COME PARTECIPARE</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AZEROTHSHARD.ORG</a>",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showText1": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Pronto per l'avventura?",
+          "text": "Se non sei ancora un Azerothiano",
+          "text1": "Se non hai ancora un account <a href=\"https://azerothshard.org/intro/\" target=\"_blank\">REGISTRATI ORA</a>!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3902\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEGGI LA GUIDA COMPLETA</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1f"
+          "_name": "call5",
+          "_anchor": "call5-1s"
         },
         {
           "_styles": {
@@ -889,7 +915,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"blacktemple2018.html\" data-toolbar=\"-mbrBtnMove\">BLACK TEMPLE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"naxxramas2018.html\" data-toolbar=\"-mbrBtnMove\">NAXXRAMAS</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"blacktemple2018.html\" data-toolbar=\"-mbrBtnMove\">BLACK TEMPLE</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"naxxramas2018.html\" data-toolbar=\"-mbrBtnMove\">NAXXRAMAS</a>  ",
                 "overlayOpacity": "0.8"
               }
             ]
