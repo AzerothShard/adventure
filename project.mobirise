@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AzerothShard",
-    "currentPage": "index.html",
+    "currentPage": "naxxramas2018.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -414,7 +414,7 @@
               "family": "et-line"
             }
           },
-          "title": "I REWARDS",
+          "title": "REWARDS",
           "title1": "Bootstrap 4",
           "subtitle1": "MOUNT VOLANTE DA COMBATTIMENTO",
           "caption1": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
@@ -672,7 +672,7 @@
             "showText": true,
             "showImages": true,
             "showTitles": true,
-            "tabs": "3",
+            "tabs": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/2397479-league-of-explorers-key-art-1-1600x972.jpg",
             "parallax": true,
@@ -688,14 +688,14 @@
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "<br>AZEROTH SHARD &nbsp;ADVENTURE",
-          "text": "Affronta nuovamente le sfide della Classic, della Burning Crusade e della Wrath of the Lich King in una grande ed esclusiva Avventura!<br>Oggi puoi su un unico server, in un unico reame!<br>Combatti anche tu le antiche minacce di Warcraft che sono tornate con rinnovato vigore! Da <b>Karazhan </b>a <b>Molten Core</b>, da <b>Deadmines </b>ad <b>Ahn'Qiraj.</b><br>Una serie infinita di spedizioni ed incursioni &nbsp;ti aspetta, solo su AzerothShard!<br><br><b>STORIA INTRODUTTIVA:</b>",
+          "text": "Affronta nuovamente le sfide della Classic, della Burning Crusade e della Wrath of the Lich King in una grande ed esclusiva Avventura!<br>Oggi puoi su un unico server, in un unico reame!<br>Combatti anche tu le antiche minacce di Warcraft che sono tornate con rinnovato vigore! Da <b>Karazhan </b>a <b>Molten Core</b>, da <b>Deadmines </b>ad <b>Ahn'Qiraj.</b><br>Una serie infinita di spedizioni ed incursioni &nbsp;ti aspetta, solo su AzerothShard!<br><br><b>INTRODUZIONE:</b>",
           "title1": "YSERA E LA CREAZIONE DELLA DIMENSIONE ILLUSORIA",
           "title2": "LE AUREE NEGATIVE",
-          "title3": "IL PRESENTE",
-          "title4": "HOST ANYWHERE",
-          "title5": "IMAGE/CONTENT SLIDER",
+          "title3": "L'ADDESTRAMENTO",
+          "title4": "TIMEWALKING: I VIAGGI NEL TEMPO",
+          "title5": "QUEST: INCURSIONI E SPEDIZIONI",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-i\" aria-expanded=\"true\">DIMENSIONE ILLUSORIA</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-i\" aria-expanded=\"false\">LE AUREE NEGATIVE</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-i\" aria-expanded=\"false\">L'ADDESTRAMENTO&nbsp;</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-i\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-i\" aria-expanded=\"false\">PROLOGO: DIMENSIONE ILLUSORIA</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-i\" aria-expanded=\"false\">TRAMA CAP.1: LE AUREE NEGATIVE</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-i\" aria-expanded=\"false\">TRAMA CAP.2: L'ADDESTRAMENTO&nbsp;</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-i\" aria-expanded=\"false\">TIMEWALKING: I VIAGGI NEL TEMPO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-i\" aria-expanded=\"true\">QUEST: INCRUSIONI E SPEDIZIONI</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-i\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ysera-the-dreamer-by-daerone-d8nmohw-1139x1197.png",
@@ -728,16 +728,22 @@
           },
           "media14": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb4.png",
+              "src": "@PROJECT_PATH@/assets/images/oiljokg-700x700.png",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media15": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb5.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-100-987x882.png",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media16": {
@@ -751,8 +757,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
               "linkInNewWindow": false,
-              "name": "arrow-next",
-              "family": "MobiriseIcons",
+              "name": "book-open",
+              "family": "et-line",
               "active": true,
               "size": "",
               "color": "@primaryColor"
@@ -762,8 +768,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
               "linkInNewWindow": false,
-              "name": "arrow-next",
-              "family": "MobiriseIcons",
+              "name": "book-open",
+              "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -774,8 +780,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
               "linkInNewWindow": false,
-              "name": "arrow-next",
-              "family": "MobiriseIcons",
+              "name": "book-open",
+              "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -784,24 +790,26 @@
           },
           "media24": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
+              "linkInNewWindow": false,
+              "name": "timer",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media25": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "FontAwesome",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media26": {
@@ -815,11 +823,11 @@
               "family": "et-line"
             }
           },
-          "text1": "In un lasso temporale che segue la caduta del Re dei Lich, Ysera viene scossa nel sogno di smeraldo da un terribile incubo che le pre-annuncia l’imminente Cataclisma. Decide dunque di intervenire per salvare Azeroth dal collasso creando una dimensione illusoria dove salvare le anime degli eroi dall'imminente catastrofe. Questa dimensione è un istantanea del mondo poco prima della caduta del Lich. Tale dimensione però è molto instabile e questa instabilità è causata dal ripetersi di eventi negativi già avvenuti in passato, come ad esempio la Burning Crusade, la Scourge Invasion, gli Old gods e tutte le altre antiche minacce.<br>Il <b>Kirin'Tor</b> monitora queste auree negative mentre <b>L'Argent Crusade</b> addestra gli eroi per tenerle a bada, preparandosi allo stesso tempo per il cataclisma stesso.&nbsp;<br>",
-          "text2": "Tali auree negative però sono presenti in momenti temporali diversi tra loro. Tramite Nozdormu gli eroi dovranno tornare alle proprie radici per affrontarle, evitando il collasso della dimensione stessa e preparandosi all'avvento del cataclisma.\n<br>Per eliminare la minaccia e ristabilire l'equilibrio, ogni qualvolta un’aura negativa prende il sopravvento della dimensione illusoria, essa va affrontata attraverso dei speciali viaggi nel tempo!\n<br>Ciò permette agli Aspetti e al Magus Senate di avere il tempo per studiare la minaccia ed ai nostri eroi di prepararsi per ciò che gli riserverà l’inevitabile cataclisma.&nbsp;<br><br><br>",
-          "text3": "Ignari di tutto ciò che sta accadendo gli Azerothiani sono andati in cerca di una risposta. Dopo diverso tempo è stata trovata un’antica profezia nascosta in un regno dimenticato di cui una parte recita: <br>&lt;&lt;...e così antichi Poteri risorgeranno con rinnovato Vigore, bruciando le Radici del Mondo conosciuto...&gt;&gt;\n<br><br>Ciò fa presumere quindi che insieme al cataclisma torneranno a far visita vecchi rivali ma più forti di prima! I nostri eroi dovranno quindi prepararsi insieme al Kirin Tor e all'Argent Crusade a qualsiasi sfida lì aspetterà!<br><br><br>",
-          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "text1": "In un lasso temporale che segue la caduta del Re dei Lich, Ysera viene scossa nel sogno di smeraldo da un terribile incubo che le pre-annuncia l’imminente Cataclisma. Decide dunque di intervenire per salvare Azeroth dal collasso creando \"La Dimensione Illusoria\" dove le anime degli eroi vengono sottratte all'imminente catastrofe. Questa dimensione è un istantanea del mondo poco prima della caduta del Lich. Tale dimensione però è molto instabile e questa instabilità è causata dal ripetersi di eventi negativi già avvenuti in passato, come ad esempio la Burning Crusade, la Scourge Invasion, gli Old gods e la caduta stessa del Lich.<br>Il <b>Kirin'Tor</b> monitora queste auree negative mentre <b>L'Argent Crusade</b> addestra gli eroi per tenerle a bada, preparandosi allo stesso tempo per il cataclisma stesso.&nbsp;<br>(P.S. Le dimensioni parallele esistono realmente su AzerothShard!!)",
+          "text2": "Tali auree negative però sono presenti in momenti temporali diversi tra loro. Tramite il Guardiano del Tempo Nozdormu gli eroi dovranno tornare alle proprie radici per affrontarle, evitando il collasso della dimensione stessa e preparandosi all'avvento del cataclisma.\n<br>Per eliminare la minaccia e ristabilire l'equilibrio, ogni qualvolta un’aura negativa prende il sopravvento della dimensione illusoria, essa va affrontata attraverso gli speciali viaggi nel tempo!\n<br>Ciò permette agli Aspetti e al Magus Senate di avere il tempo per studiare la minaccia ed ai nostri eroi di prepararsi per ciò che gli riserverà l’inevitabile cataclisma.&nbsp;<br><br><br>",
+          "text3": "Ignari di tutto ciò che sta accadendo gli Azerothiani sono andati in cerca di una risposta. Dopo diverso tempo è stata trovata un’antica profezia nascosta in un regno dimenticato di cui una parte recita: <br>&lt;&lt;...e così antichi Poteri risorgeranno con rinnovato Vigore, bruciando le Radici del Mondo conosciuto...&gt;&gt;\n<br><br>Ciò fa presumere quindi che insieme al cataclisma torneranno a far visita vecchi rivali più forti di prima! I nostri eroi dovranno quindi prepararsi insieme al Kirin Tor e all'Argent Crusade a qualsiasi sfida lì aspetterà!<br><br><br>",
+          "text4": "Il Timewalking è la nostra esclusiva funzionalità sviluppata per la Wrath of the Lich King che permette al tuo personaggio di cambiare dinamicamente il livello per poter affrontare le sfide proposte dall'Adventure!<br>Non sarà necessario né cambiare equip ne fare alcuna modifica al proprio personaggio! Un solo semplice click ed il tuo PG sarà automaticamente scalato e pronto per la sfida!<br>Per impostare il Timewalking recatevi da Nozdormu al Black Market! Chiedete indicazioni in game.",
+          "text5": "Al Black Market, uno dei luoghi più oscuri ma introvabili di Azeroth (almeno per i nemici), Il Kirin Tor e l'Argent Crusade vi presenteranno ogni giorno delle sfide diverse da affrontare sia in Timewalking che senza. Alcune di esse dovranno inoltre essere affrontate con un gruppo limitato di giocatori ed in alcuni casi vi richiederanno di viaggiare all'interno delle dimensioni create da Ysera. Siete pronti per tutto questo? Mettetevi alla prova!",
           "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
           "alias": "colorm/components",
           "_tags": [
@@ -1064,7 +1072,7 @@
           "title": "Features",
           "title1": "Bootstrap 4",
           "subtitle1": "BLACK MARKET",
-          "caption1": "Il Black Market è il luogo dove inizia la nostra esclusiva Avventura! Esso è accessibile tramite la Smart Stone presente nelle vostre borse.<br>Qui sono presenti tutti i nostri vendors, quest givers e tutti gli NPC speciali.&nbsp;",
+          "caption1": "Il Black Market è il luogo dove inizia la nostra esclusiva Avventura! Esso è accessibile tramite la Smart Stone presente nelle vostre borse.<br>Qui sono presenti tutti i nostri vendors, quest givers, Timewalking e tutti gli NPC speciali.&nbsp;",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title2": "Responsive",
           "subtitle2": "DRENDEN &amp; FRIENDS",
@@ -1612,7 +1620,7 @@
               "family": "et-line"
             }
           },
-          "title": "I REWARDS",
+          "title": "REWARDS",
           "title1": "Bootstrap 4",
           "subtitle1": "MOUNT VOLANTI DA COMBATTIMENTO",
           "caption1": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
