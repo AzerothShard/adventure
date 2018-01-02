@@ -1,15 +1,15 @@
 {
   "settings": {
     "name": "AzerothShard",
-    "currentPage": "naxxramas2018.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
-        "buttonsColor": "#000000",
-        "secondaryColor": "#9b59b6",
-        "successColor": "#2ecc71",
+        "primaryColor": "#f1c40f",
+        "buttonsColor": "#1d1d19",
+        "secondaryColor": "#ac2ae1",
+        "successColor": "#27ae60",
         "infoColor": "#3498db",
         "warningColor": "#f1c40f",
         "dangerColor": "#e74c3c",
@@ -18,22 +18,22 @@
         "textFont": "Noto Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#fff9c0",
-        "#000025",
-        "#290339",
-        "#045928",
-        "#001509",
-        "#f3faff",
-        "#110218"
+        "#1d1d19",
+        "#57583a",
+        "#74159b",
+        "#0b803c",
+        "#621681",
+        "#ac2ae1",
+        "#53f9f9"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 55,
+    "uniqCompNum": 64,
     "versionPublish": "4.5.4",
-    "favicon": "@PROJECT_PATH@/assets/images/cuthbert-logo-1-128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
@@ -144,13 +144,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f1c40f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".link": {
               "font-size": "0.875rem"
@@ -165,7 +165,7 @@
               "background": "@primaryColor"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#000000"
@@ -177,7 +177,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f1c40f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -188,26 +188,30 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": 0.875,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-cuth-227x128.png",
+              "src": "@PROJECT_PATH@/assets/images/fb-icon-gold-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -220,7 +224,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD: ADVENTURE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -548,7 +552,7 @@
         "main": true,
         "title": "Adventure",
         "meta_descr": "Le funzionalità che ci distinguono",
-        "header_custom": "",
+        "header_custom": "<style>\nbody {\n   background-color: #000000\n}\n</style>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -562,13 +566,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f1c40f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".link": {
               "font-size": "0.875rem"
@@ -583,7 +587,7 @@
               "background": "@primaryColor"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#000000"
@@ -595,7 +599,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f1c40f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -606,31 +610,34 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": 0.875,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-cuth-227x128.png",
+              "src": "@PROJECT_PATH@/assets/images/fb-icon-gold-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -638,7 +645,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD: ADVENTURE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -664,7 +671,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#f39c12"
+              "color": "#f1c40f"
             }
           },
           "_params": {
@@ -842,13 +849,59 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3902/#p12876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COME PARTECIPARE</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://azerothshard.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AZEROTHSHARD.ORG</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3902/#p12876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COME PARTECIPARE</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AZEROTHSHARD.ORG</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-1f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#f1c40f"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgColor": "#000000",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/naxxbt-1108x720.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "INCURSIONI PRINCIPALI",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"blacktemple2018.html\" data-toolbar=\"-mbrBtnMove\">BLACK TEMPLE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"naxxramas2018.html\" data-toolbar=\"-mbrBtnMove\">NAXXRAMAS</a>  ",
+                "overlayOpacity": "0.8"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-1r"
         },
         {
           "_params": {
@@ -861,7 +914,7 @@
             "paddingBottom": 2,
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#a15b1c",
+            "bgColor": "#000000",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dungeon-ulduar-03-full-1600x1070.jpg",
             "bgVideoRadio": false,
@@ -922,7 +975,8 @@
               "font-size": "18px"
             },
             ".mbr-section-title": {
-              "font-size": "80px"
+              "font-size": "80px",
+              "color": "#53f9f9"
             }
           }
         },
@@ -950,7 +1004,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/cattura-1924x923.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2c3e50",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1109,7 +1163,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#000000",
             "showText": false,
             "filter": false,
             "images": [
@@ -1234,13 +1288,50 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://azerothshard.org/info/our-features-and-rates/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SCOPRI AZEROTHSHARD</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org/info/our-features-and-rates/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SCOPRI AZEROTHSHARD</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "features6",
           "_anchor": "features6-1i"
+        },
+        {
+          "_styles": {
+            ".btn-social": {
+              "color": "#fff",
+              "height": "60px",
+              "width": "60px",
+              "line-height": "60px",
+              "font-size": "2rem"
+            },
+            ".mbr-section-title": {
+              "color": "#f1c40f"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/worldofwarcraft-930x372.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "DILLO AI TUOI AMICI!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1q"
         }
       ]
     },
@@ -1349,13 +1440,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f1c40f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".link": {
               "font-size": "0.875rem"
@@ -1370,7 +1461,7 @@
               "background": "@primaryColor"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
+              "color": "#f1c40f"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#000000"
@@ -1382,7 +1473,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f1c40f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1393,26 +1484,30 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": 0.875,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-cuth-227x128.png",
+              "src": "@PROJECT_PATH@/assets/images/fb-icon-gold-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1425,7 +1520,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD: ADVENTURE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
