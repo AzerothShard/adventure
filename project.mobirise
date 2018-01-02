@@ -7,7 +7,7 @@
       "title": "ColorM",
       "styling": {
         "primaryColor": "#f1c40f",
-        "buttonsColor": "#1d1d19",
+        "buttonsColor": "#ffffff",
         "secondaryColor": "#ac2ae1",
         "successColor": "#27ae60",
         "infoColor": "#3498db",
@@ -45,7 +45,8 @@
       "settings": {
         "title": "naxxramas2018",
         "order": 3,
-        "meta_descr": "Naxxramas First Kill"
+        "meta_descr": "Naxxramas First Kill",
+        "header_custom": "<style>\nbody {\n   background-color: #000000\n}\n</style>"
       },
       "components": [
         {
@@ -187,7 +188,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#f1c40f!important"
             },
             ".btn": {
               "font-family": "'Ubuntu', sans-serif",
@@ -224,7 +225,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD: ADVENTURE</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH ADVENTURE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -609,7 +610,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#f1c40f!important"
             },
             ".btn": {
               "font-family": "'Ubuntu', sans-serif",
@@ -645,7 +646,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD: ADVENTURE</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH ADVENTURE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -694,7 +695,7 @@
             "overlayOpacity": "0.8"
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "<br>AZEROTH SHARD &nbsp;ADVENTURE",
+          "title": "<br>AZEROTH ADVENTURE",
           "text": "Affronta nuovamente le sfide della Classic, della Burning Crusade e della Wrath of the Lich King in una grande ed esclusiva Avventura!<br>Oggi puoi su un unico server, in un unico reame!<br>Combatti anche tu le antiche minacce di Warcraft che sono tornate con rinnovato vigore! Da <b>Karazhan </b>a <b>Molten Core</b>, da <b>Deadmines </b>ad <b>Ahn'Qiraj.</b><br>Una serie infinita di spedizioni ed incursioni &nbsp;ti aspetta, solo su AzerothShard!<br><br><b>INTRODUZIONE:</b>",
           "title1": "YSERA E LA CREAZIONE DELLA DIMENSIONE ILLUSORIA",
           "title2": "LE AUREE NEGATIVE",
@@ -1164,7 +1165,7 @@
             "paddingBottom": 0,
             "filterBgColor": false,
             "bgColor": "#000000",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -1174,7 +1175,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=vlVSJ0AvZe0",
-                "caption": "Type caption here",
+                "caption": "WORLD OF WARCRAFT",
                 "active": false
               },
               {
@@ -1184,7 +1185,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=IBHL_-biMrQ",
                 "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "caption": "Type caption here",
+                "caption": "BURNING CRUSADE",
                 "active": false
               },
               {
@@ -1194,7 +1195,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=BCr7y4SLhck",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "caption": "Type caption here",
+                "caption": "WRATH OF THE LICH KING",
                 "active": false
               },
               {
@@ -1204,7 +1205,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=q6Bxwx9PWxA",
                 "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "caption": "Type caption here",
+                "caption": "AZEROTH ADVENTURE",
                 "active": true
               }
             ]
@@ -1218,7 +1219,13 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-1c"
+          "_anchor": "gallery1-1c",
+          "_styles": {
+            ".mbr-gallery-title": {
+              "text-align": "center",
+              "color": "#f1c40f"
+            }
+          }
         },
         {
           "_styles": {
@@ -1311,7 +1318,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/worldofwarcraft-930x372.jpg",
             "parallax": false,
@@ -1338,7 +1345,8 @@
     "blacktemple2018.html": {
       "settings": {
         "title": "blacktemple2018",
-        "order": 2
+        "order": 2,
+        "header_custom": "<style>\nbody {\n   background-color: #000000\n}\n</style>"
       },
       "components": [
         {
@@ -1483,7 +1491,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#f1c40f!important"
             },
             ".btn": {
               "font-family": "'Ubuntu', sans-serif",
@@ -1520,7 +1528,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH SHARD: ADVENTURE</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH ADVENTURE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"

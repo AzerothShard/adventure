@@ -86,7 +86,7 @@ textarea,
 .btn-primary {
   background-color: #f1c40f;
   border-color: #f1c40f;
-  color: #1d1d19;
+  color: #ffffff;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -106,7 +106,7 @@ textarea,
 .btn-secondary {
   background-color: #ac2ae1;
   border-color: #ac2ae1;
-  color: #1d1d19;
+  color: #ffffff;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
@@ -126,7 +126,7 @@ textarea,
 .btn-info {
   background-color: #3498db;
   border-color: #3498db;
-  color: #1d1d19;
+  color: #ffffff;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -146,7 +146,7 @@ textarea,
 .btn-success {
   background-color: #27ae60;
   border-color: #27ae60;
-  color: #1d1d19;
+  color: #ffffff;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -166,7 +166,7 @@ textarea,
 .btn-warning {
   background-color: #f1c40f;
   border-color: #f1c40f;
-  color: #1d1d19;
+  color: #ffffff;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -186,7 +186,7 @@ textarea,
 .btn-danger {
   background-color: #e74c3c;
   border-color: #e74c3c;
-  color: #1d1d19;
+  color: #ffffff;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -798,7 +798,7 @@ blockquote {
 }
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-item[aria-expanded="true"] {
-  color: #f39c12!important;
+  color: #f1c40f!important;
 }
 #menu-k .btn {
   font-family: 'Ubuntu', sans-serif;
@@ -893,7 +893,7 @@ blockquote {
 }
 #menu-h .link[aria-expanded="true"],
 #menu-h .dropdown-item[aria-expanded="true"] {
-  color: #f39c12!important;
+  color: #f1c40f!important;
 }
 #menu-h .btn {
   font-family: 'Ubuntu', sans-serif;
@@ -940,6 +940,10 @@ blockquote {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
+}
+#gallery1-1c .mbr-gallery-title {
+  text-align: center;
+  color: #f1c40f;
 }
 #features6-1i .lead {
   color: #9fa3a7;
@@ -1047,7 +1051,7 @@ blockquote {
 }
 #menu-s .link[aria-expanded="true"],
 #menu-s .dropdown-item[aria-expanded="true"] {
-  color: #f39c12!important;
+  color: #f1c40f!important;
 }
 #menu-s .btn {
   font-family: 'Ubuntu', sans-serif;
