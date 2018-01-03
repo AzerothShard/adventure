@@ -809,13 +809,17 @@ blockquote {
 #table1-n .mbr-section-title {
   color: #27ae60;
 }
+#table1-n TH {
+  color: #ac2ae1;
+}
 #features1-1d .mbr-section-title {
   font-weight: 700;
+  color: #ac2ae1;
 }
 #features1-1d .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #fff;
+  color: #ac2ae1;
 }
 #content3-u .mbr-section-title,
 #content3-u .mbr-section-subtitle {
@@ -917,19 +921,19 @@ blockquote {
 #header9-i .mbr-section-title {
   color: #f1c40f;
 }
+#features1-1w .mbr-section-title {
+  font-weight: 700;
+}
+#features1-1w .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #f1c40f;
+}
 #call5-1s .mbr-section-title {
   color: #f1c40f;
 }
 #call5-1s .mbr-section-text {
   color: #ffffff;
-}
-#slider3-1r .mbr-section-title,
-#slider3-1r .mbr-section-text {
-  color: #fff;
-}
-#slider3-1r .mbr-section-title {
-  font-size: 48px;
-  color: #f1c40f;
 }
 #features9-j H4 {
   text-align: right;
@@ -941,11 +945,12 @@ blockquote {
 }
 #features1-1h .mbr-section-title {
   font-weight: 700;
+  color: #c0392b;
 }
 #features1-1h .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #fff;
+  color: #e74c3c;
 }
 #gallery1-1c .mbr-gallery-title {
   text-align: center;
@@ -1069,13 +1074,17 @@ blockquote {
   color: #27ae60;
   font-size: 80px;
 }
+#table1-v TH {
+  color: #2ecc71;
+}
 #features1-y .mbr-section-title {
   font-weight: 700;
+  color: #27ae60;
 }
 #features1-y .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #fff;
+  color: #2ecc71;
 }
 #content3-1e .mbr-section-title,
 #content3-1e .mbr-section-subtitle {
