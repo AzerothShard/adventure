@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -1068,13 +1068,13 @@
             "showTitle": true,
             "showSubtitle": true,
             "showDates": true,
-            "blocks": "2",
-            "cardsColor": "#f3faff",
-            "paddingTop": "2",
+            "blocks": "7",
+            "cardsColor": "#ecf0f1",
+            "paddingTop": 2,
             "paddingBottom": 2,
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#000000",
+            "bgColor": "#a15b1c",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dungeon-ulduar-03-full-1600x1070.jpg",
             "bgVideoRadio": false,
@@ -1083,41 +1083,41 @@
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.8"
           },
           "mainTitle": "ADVENTURE TIMELINE",
-          "mainSubtitle": "",
-          "title1": "Prime Incursioni&nbsp;",
-          "title2": "A breve su AzerothShard...",
-          "title3": "",
-          "title4": "4. Design out of the box",
-          "title5": "5. Awesome Reports",
-          "title6": "6. Multi Homepages",
-          "title7": "7. Responsive Design",
+          "mainSubtitle": "ATTENZIONE: Questa Timeline verrà aggiornata periodicamente. Le tempistiche potrebbero pertanto cambiare. Stay Tuned!",
+          "title1": "Prime Incursioni e Naxxramas&nbsp;",
+          "title2": "The Obsidian Sanctum",
+          "title3": "The Eye of Eternity",
+          "title4": "Ulduar",
+          "title5": "Trial of the Grand Crusader",
+          "title6": "Ice Crown Citadel",
+          "title7": "Mythic Autobalancing Timeline",
           "title8": "8. Smart Watch",
           "title9": "9. Design out of the box",
           "title10": "10. Awesome Reports",
           "title11": "11. Design out of the box",
           "title12": "12. Awesome Reports",
-          "date1": "Gennaio 2018<br>",
+          "date1": "Gennaio 2018",
           "date2": "Febbraio 2018",
           "date3": "Marzo 2018",
-          "date4": "4 April 2016",
-          "date5": "5 May 2016",
-          "date6": "6 June 2016",
-          "date7": "7 July 2016",
+          "date4": "Aprile - Luglio 2018",
+          "date5": "Agosto 2018",
+          "date6": "Settembre - Dicembre 2018",
+          "date7": "2019",
           "date8": "8 August 2016",
           "date9": "9 September 2016",
           "date10": "10 October 2016",
           "date11": "11 November 2016",
           "date12": "12 December 2016",
-          "text1": "Introdotte le prime quest secondarie a rotazione giornaliera e settimanale. Tra cui Karazhan, Gruul's Lair, Zul'Gurub, Zul Aman, Deadmines, Scarlet Monastery, Gnomerang e molte altre!&nbsp;<br><br>Attivate le incursioni principali del <br><a href=\"blacktemple2018.html\" class=\"text-info\">Black Temple</a> e <a href=\"naxxramas2018.html\" class=\"text-info\">Naxxramas&nbsp;</a><br>",
-          "text2": "<br>Nuove Incursioni e Spedizioni per rivivere queste meravigliose Avventure ti aspetteranno durante tutto l'anno solo su Azeroth Shard! \n<br>Stay Tuned!<br>",
-          "text3": "",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text1": "Introdotte le prime quest secondarie a rotazione giornaliera e settimanale. Tra cui Karazhan, Gruul's Lair, Zul'Gurub, Zul Aman, Deadmines, Scarlet Monastery, Gnomerang e molte altre! \n<br>\n<br>Attivate le incursioni principali del \n<br><a href=\"blacktemple2018.html\" class=\"text-info\">Black Temple</a> e <a href=\"naxxramas2018.html\" class=\"text-info\">Naxxramas</a>&nbsp;",
+          "text2": "La First Kill di Obsidian Sanctum ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Febbraio 2018.",
+          "text3": "La First Kill di The Eye of Eternity ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Marzo 2018.",
+          "text4": "Le First Kills di Ulduar ed il relativi raid dell'Adventure collegati sono programmati per iniziare ad Aprile 2018.",
+          "text5": "La First Kill di ToGC ed il relativi raid dell'Adventure collegati sono programmati per iniziare ad Agosto 2018.",
+          "text6": "La First Kill di Ice Crown Citadel ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Settembre 2018.",
+          "text7": "Nessuno Spoiler disponibile.",
           "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
           "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
           "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -1128,15 +1128,16 @@
             "Theme"
           ],
           "_name": "features9",
-          "_anchor": "features9-j",
+          "_anchor": "features9-1y",
           "_styles": {
-            "H4": {
-              "text-align": "right",
-              "font-size": "18px"
-            },
             ".mbr-section-title": {
-              "font-size": "80px",
               "color": "#53f9f9"
+            },
+            "H4": {
+              "color": "#3498db"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         },
@@ -1366,7 +1367,48 @@
                 "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "caption": "AZEROTH ADVENTURE",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-15-21-11-119215.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=JmndxoF74qQ",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "caption": "ZUL AMAN",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-16-16-7-560259.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=B5opYNn-hrw",
+                "image": "@PROJECT_PATH@/assets/images/karazhan-wow-legion-patch-7-1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/karazhan-wow-legion-patch-7-1-1920x1080-800x450.jpg",
+                "caption": "BURNING CRUSADE FAN TRAILER",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-15-54-21-942151.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=JVmsm2_E1Ro",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "caption": "HELLFIRE CITADEL STORY",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-15-56-5-864255.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=w2IvDjY3CtQ",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "caption": "WOTLK TEASER",
+                "active": false
               }
             ]
           },

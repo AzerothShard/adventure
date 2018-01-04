@@ -935,13 +935,14 @@ blockquote {
 #call5-1s .mbr-section-text {
   color: #ffffff;
 }
-#features9-j H4 {
-  text-align: right;
-  font-size: 18px;
-}
-#features9-j .mbr-section-title {
-  font-size: 80px;
+#features9-1y .mbr-section-title {
   color: #53f9f9;
+}
+#features9-1y H4 {
+  color: #3498db;
+}
+#features9-1y P {
+  color: #000000;
 }
 #features1-1h .mbr-section-title {
   font-weight: 700;
