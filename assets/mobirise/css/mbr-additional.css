@@ -921,6 +921,11 @@ blockquote {
 #header9-i .mbr-section-title {
   color: #f1c40f;
 }
+#header9-i #tab1header9-i .mbr-iconfont,
+#header9-i #tab2header9-i .mbr-iconfont,
+#header9-i #tab3header9-i .mbr-iconfont {
+  display: none;
+}
 #features1-1w .mbr-section-title {
   font-weight: 700;
 }
