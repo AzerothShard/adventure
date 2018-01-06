@@ -36,7 +36,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-77442466-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-77442466-1');\r\n</script>\r\n",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -101,7 +101,7 @@
           "title": "NAXXRAMAS <br>FIRST KILL",
           "text": "Naxxramas è una gigantesca necropoli che fluttua sopra la Fortezza di Wintergarde. Ha l'onore di essere il seggio di uno degli ufficiali più potenti del Re dei Lich, il temuto lich Kel'Thuzad!",
           "text2": "GUARDA IL TRAILER",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3905/#p12879\" data-toolbar=\"-mbrBtnMove\">LEGGI LA GUIDA</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3905/#p12879\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEGGI LA GUIDA</a> ",
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "alias": "colorm/components",
           "_tags": [
@@ -1056,7 +1056,7 @@
           "title": "Pronto per l'avventura?",
           "text": "Se non sei ancora un Azerothiano",
           "text1": "Se non hai ancora un account <a href=\"https://azerothshard.org/intro/\" target=\"_blank\">REGISTRATI ORA</a>!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3902\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEGGI LA GUIDA COMPLETA</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://azerothshard.org/it/forums/info-e-guide-ufficiali/3902/#p12876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEGGI LA GUIDA COMPLETA</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
