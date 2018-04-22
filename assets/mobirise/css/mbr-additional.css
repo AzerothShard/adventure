@@ -988,6 +988,15 @@ blockquote {
 #header10-w P {
   color: #ffffff;
 }
+#features6-2e .lead {
+  color: #9fa3a7;
+}
+#features6-2e .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features6-2e .mbr-section-title {
+  color: #27ae60;
+}
 #menu-s .hide-buttons .nav-btn {
   display: none !important;
 }
