@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AzerothShard",
-    "currentPage": "blacktemple2018.html",
+    "currentPage": "naxxramas2018.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -167,17 +167,18 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/28336246-1597022047011541-8772626693111509696-o-1440x837.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": false,
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=cm_adSxvW04&list=PLA3Bxi5wbnr_f6ttYRXHAwMtfanCf1OSa&index=10&t=162s",
                 "title": "IMAGE SLIDER",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.youtube.com/watch?v=cm_adSxvW04&amp;list=PLA3Bxi5wbnr_f6ttYRXHAwMtfanCf1OSa&amp;index=10&amp;t=162s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GUARDA IL VIDEO</a> ",
+                "overlayOpacity": "0.8"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/28235703-1597022273678185-17297863847307699-o-1920x1017.jpg",
@@ -223,17 +224,18 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/28336246-1597022047011541-8772626693111509696-o-1440x837.jpg",
-                "active": true,
-                "showButtons": false,
+                "active": false,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": false,
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=kKW54yebzD4",
                 "title": "IMAGE SLIDER",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://www.youtube.com/watch?v=kKW54yebzD4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GUARDA IL VIDEO</a>",
+                "overlayOpacity": "0.7"
               }
             ]
           },
