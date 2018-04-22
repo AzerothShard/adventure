@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AzerothShard",
-    "currentPage": "obsidian2018.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -291,7 +291,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -671,7 +671,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1041,7 +1041,7 @@
           "title3": "Web Fonts",
           "subtitle3": "OBSIDIAN 04/2018",
           "caption3": "La Seconda incursione dell'Adventure è arrivata!<br>Prepara il tuo equip migliore e componi un gruppo di veterani, dovrai ora affrontare una delle sfide più \"Ardenti\" della Wrath of the Lich King in Modalità Flex Mythic+13!<br><br>Non permettere a Sartharion di mantenere il controllo del santuario.&nbsp;<br>I Twilight Dragons devono estinguersi!",
-          "buttons3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APRI LA PAGINA</a>",
+          "buttons3": "<a data-app-btn=\"true\" href=\"obsidian2018.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APRI LA PAGINA</a>",
           "title4": "Unlimited Sites",
           "subtitle4": "NAXXRAMAS 01/2018",
           "caption4": "Naxxramas fu strappata dal terreno dai sudditi del Re dei Lich per servire come base operativa di Kel'Thuzad mentre diffondeva la piaga in tutta Lordaeron.<br>Anche questa sfida, come per il Black Temple, necessita di un equipaggiamento adatto e metterà a dura prova le vostre capacità!<br>In compenso il bottino di guerra sarà <b>MOLTO </b>generoso!<br>",
@@ -1150,7 +1150,7 @@
           "date11": "11 November 2016",
           "date12": "12 December 2016",
           "text1": "Introdotte le prime quest secondarie a rotazione giornaliera e settimanale. Tra cui Karazhan, Gruul's Lair, Zul'Gurub, Zul Aman, Deadmines, Scarlet Monastery, Gnomerang e molte altre! \n<br>\n<br>Attivate le incursioni principali del \n<br><a href=\"blacktemple2018.html\" class=\"text-info\">Black Temple</a> e <a href=\"naxxramas2018.html\" class=\"text-info\">Naxxramas</a>&nbsp;",
-          "text2": "La First Kill di Obsidian Sanctum viene proposta con la nuova modalità Mythic+ al livello Epico 13!<br>",
+          "text2": "La First Kill di Obsidian Sanctum viene proposta con la nuova modalità Mythic+ al livello Epico 13!<br><br><i>Vai alla <a href=\"obsidian2018.html\" class=\"text-info\">pagina</a></i>",
           "text3": "La First Kill di The Eye of Eternity ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Maggio 2018.",
           "text4": "Le First Kills di Ulduar ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Giugno 2018.",
           "text5": "La First Kill di ToGC ed il relativi raid dell'Adventure collegati sono programmati per iniziare ad Agosto 2018.",
@@ -1725,7 +1725,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2191,7 +2191,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
