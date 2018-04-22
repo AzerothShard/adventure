@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AzerothShard",
-    "currentPage": "index.html",
+    "currentPage": "obsidian2018.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 84,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -44,7 +44,7 @@
     "naxxramas2018.html": {
       "settings": {
         "title": "naxxramas2018",
-        "order": 3,
+        "order": 2,
         "meta_descr": "Naxxramas First Kill",
         "header_custom": "<style>\nbody {\n   background-color: #000000\n}\n</style>"
       },
@@ -98,7 +98,7 @@
               "family": "et-line"
             }
           },
-          "title": "NAXXRAMAS <br>FIRST KILL",
+          "title": "NAXXRAMAS <br>FIRST KILL<br>(Gennaio 2018)",
           "text": "Naxxramas è una gigantesca necropoli che fluttua sopra la Fortezza di Wintergarde. Ha l'onore di essere il seggio di uno degli ufficiali più potenti del Re dei Lich, il temuto lich Kel'Thuzad!",
           "text2": "GUARDA IL TRAILER",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3905/#p12879\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEGGI LA GUIDA</a> ",
@@ -129,12 +129,95 @@
             "bgColor": "#000000"
           },
           "title": "NAXXRAMAS HEROES",
-          "meta": "<b>I vincitori della First Kill di Naxxramas Qui verranno pubblicati i nomi, una foto di gruppo ed il video della First Kill.</b>",
+          "meta": "<b>I vincitori della First Kill di Naxxramas Qui verranno pubblicati i nomi, una foto di gruppo ed il video della First Kill.</b><b><br></b>",
           "_tags": [
             "Theme"
           ],
           "_name": "content3",
           "_anchor": "content3-10"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/naxx-conquerors-916x682.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/28235703-1597022273678185-17297863847307699-o-1920x1017.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/28238645-1597022280344851-9216901478527522065-o-1920x1017.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/28336246-1597022047011541-8772626693111509696-o-1440x837.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-23"
         },
         {
           "_styles": {
@@ -208,7 +291,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -232,52 +315,6 @@
           ],
           "_name": "menu",
           "_anchor": "menu-k"
-        },
-        {
-          "_styles": {
-            "th": {
-              "color": "#9fa3a7"
-            },
-            ".mbr-section-title": {
-              "color": "#27ae60"
-            },
-            "TH": {
-              "color": "#ac2ae1"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showSearch": false,
-            "rowСount": "1",
-            "colCount": 4,
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
-          },
-          "title": "NAXXRAMAS WINNERS",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Nome</th><th>Gilda</th><th>Classe</th><th>Titolo</th></tr></thead><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "table1",
-          "_anchor": "table1-n"
         },
         {
           "_styles": {
@@ -634,7 +671,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -923,7 +960,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/115993-1-600x375.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -1002,9 +1039,9 @@
           "caption2": "Al Black Market, uno dei luoghi più oscuri ma introvabili di Azeroth (almeno per i nemici), Il Kirin Tor e l'Argent Crusade vi presenteranno ogni giorno delle sfide diverse da affrontare sia in Timewalking che senza. Alcune di esse dovranno inoltre essere affrontate con un gruppo limitato di giocatori ed in alcuni casi vi richiederanno di viaggiare all'interno delle dimensioni create da Ysera.&nbsp;",
           "buttons2": "<a data-app-btn=\"true\" href=\"index.html#features1-1h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BLACK MARKET</a>",
           "title3": "Web Fonts",
-          "subtitle3": "BLACK TEMPLE 01/2018",
-          "caption3": "La prima incursione vi permetterà di rivivere le vicende della Burning Crusade liberando le Outlands dalla minaccia di Illidan e del suo esercito di Demoni e Illidari.<br>Non sarà affatto una comune <br>incursione e richiederà&nbsp;<br>un equipaggiamento adatto!<br><b>You are not prepared!</b><br><br>",
-          "buttons3": "<a data-app-btn=\"true\" href=\"blacktemple2018.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APRI LA PAGINA</a>",
+          "subtitle3": "OBSIDIAN 04/2018",
+          "caption3": "La Seconda incursione dell'Adventure è arrivata!<br>Prepara il tuo equip migliore e componi un gruppo di veterani, dovrai ora affrontare una delle sfide più \"Ardenti\" della Wrath of the Lich King in Modalità Flex Mythic+13!<br><br>Non permettere a Sartharion di mantenere il controllo del santuario.&nbsp;<br>I Twilight Dragons devono estinguersi!",
+          "buttons3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APRI LA PAGINA</a>",
           "title4": "Unlimited Sites",
           "subtitle4": "NAXXRAMAS 01/2018",
           "caption4": "Naxxramas fu strappata dal terreno dai sudditi del Re dei Lich per servire come base operativa di Kel'Thuzad mentre diffondeva la piaga in tutta Lordaeron.<br>Anche questa sfida, come per il Black Temple, necessita di un equipaggiamento adatto e metterà a dura prova le vostre capacità!<br>In compenso il bottino di guerra sarà <b>MOLTO </b>generoso!<br>",
@@ -1055,8 +1092,8 @@
           },
           "title": "Pronto per l'avventura?",
           "text": "Se non sei ancora un Azerothiano",
-          "text1": "Se non hai ancora un account <a href=\"https://azerothshard.org/intro/\" target=\"_blank\">REGISTRATI ORA</a>!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://azerothshard.org/it/forums/info-e-guide-ufficiali/3902/#p12876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEGGI LA GUIDA COMPLETA</a>",
+          "text1": "Per la guida completa clicca <a href=\"https://azerothshard.org/it/forums/info-e-guide-ufficiali/3902/#p12876\" target=\"_blank\">QUI</a>!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://azerothshard.org/intro/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATI ORA!</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1101,9 +1138,9 @@
           "title11": "11. Design out of the box",
           "title12": "12. Awesome Reports",
           "date1": "Gennaio 2018",
-          "date2": "Febbraio 2018",
-          "date3": "Marzo 2018",
-          "date4": "Aprile - Luglio 2018",
+          "date2": "Aprile 2018",
+          "date3": "Maggio 2018",
+          "date4": "Giugno - Luglio 2018",
           "date5": "Agosto 2018",
           "date6": "Settembre - Dicembre 2018",
           "date7": "2019",
@@ -1113,9 +1150,9 @@
           "date11": "11 November 2016",
           "date12": "12 December 2016",
           "text1": "Introdotte le prime quest secondarie a rotazione giornaliera e settimanale. Tra cui Karazhan, Gruul's Lair, Zul'Gurub, Zul Aman, Deadmines, Scarlet Monastery, Gnomerang e molte altre! \n<br>\n<br>Attivate le incursioni principali del \n<br><a href=\"blacktemple2018.html\" class=\"text-info\">Black Temple</a> e <a href=\"naxxramas2018.html\" class=\"text-info\">Naxxramas</a>&nbsp;",
-          "text2": "La First Kill di Obsidian Sanctum ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Febbraio 2018.",
-          "text3": "La First Kill di The Eye of Eternity ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Marzo 2018.",
-          "text4": "Le First Kills di Ulduar ed il relativi raid dell'Adventure collegati sono programmati per iniziare ad Aprile 2018.",
+          "text2": "La First Kill di Obsidian Sanctum viene proposta con la nuova modalità Mythic+ al livello Epico 13!<br>",
+          "text3": "La First Kill di The Eye of Eternity ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Maggio 2018.",
+          "text4": "Le First Kills di Ulduar ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Giugno 2018.",
           "text5": "La First Kill di ToGC ed il relativi raid dell'Adventure collegati sono programmati per iniziare ad Agosto 2018.",
           "text6": "La First Kill di Ice Crown Citadel ed il relativi raid dell'Adventure collegati sono programmati per iniziare a Settembre 2018.",
           "text7": "Nessuno Spoiler disponibile.",
@@ -1548,7 +1585,7 @@
     "blacktemple2018.html": {
       "settings": {
         "title": "blacktemple2018",
-        "order": 2,
+        "order": 1,
         "header_custom": "<style>\nbody {\n   background-color: #000000\n}\n</style>"
       },
       "components": [
@@ -1604,7 +1641,7 @@
               "family": "et-line"
             }
           },
-          "title": "BLACK TEMPLE",
+          "title": "BLACK TEMPLE<br>(GENNAIO 2018)",
           "text": "Il Black temple è la fortezza di Illidan Stormrage, Il signore delle Outlands. La prima incursione dell'Adventure è ambientata in questo posto tanto demoniaco quanto pericoloso!<br><br><b>YOU ARE NOT PREPARED!</b> ",
           "text2": "<label class=\"startPreset\" for=\"modal\">Guarda il &nbsp;Trailer</label>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3903/#p12877\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEGGI LA GUIDA</a> ",
@@ -1615,32 +1652,6 @@
           ],
           "_name": "header10",
           "_anchor": "header10-w"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#27ae60"
-            },
-            "P": {
-              "color": "#2ecc71"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#000000"
-          },
-          "title": "BLACK TEMPLE HEROES",
-          "meta": "I primi giocatori a conquistare questa sfida saranno elencati qui! Insieme ad una foto di gruppo e al video del raid!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-z"
         },
         {
           "_styles": {
@@ -1714,7 +1725,7 @@
             "fontColor": "#f1c40f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1738,53 +1749,6 @@
           ],
           "_name": "menu",
           "_anchor": "menu-s"
-        },
-        {
-          "_styles": {
-            "th": {
-              "color": "#9fa3a7"
-            },
-            ".mbr-section-title": {
-              "color": "#27ae60",
-              "font-size": "80px"
-            },
-            "TH": {
-              "color": "#2ecc71"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showSearch": false,
-            "rowСount": "1",
-            "colCount": 4,
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
-          },
-          "title": "BLACK TEMPLE HEROES",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Nome</th><th>Gilda</th><th>Classe</th><th>Titolo</th></tr></thead><tbody><tr><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "table1",
-          "_anchor": "table1-v"
         },
         {
           "_styles": {
@@ -2054,6 +2018,474 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-x"
+        }
+      ]
+    },
+    "obsidian2018.html": {
+      "settings": {
+        "title": "Obsidian Sanctum 2018",
+        "order": 3,
+        "meta_descr": "Obsidian Sanctum First Kill",
+        "header_custom": "<style>\nbody {\n   background-color: #000000\n}\n</style>"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "text-transform": "uppercase",
+              "margin-top": "40px"
+            },
+            "H1": {
+              "color": "#e74c3c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showVideo": false,
+            "VideoUrl": "https://www.youtube.com/watch?v=JNOxz9paA6E",
+            "showArrow": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/loadscreen-theobsidiansanctum-full-1600x800.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/JNOxz9paA6E?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=JNOxz9paA6E",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/play-button.svg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title": "OBSIDIAN SANCTUM<br>(APRILE 2018)",
+          "text": "Sulla scia della Guerra del Nexus, Alexstrasza ha incaricato i suoi figli di sradicare qualsiasi pericolo e complotto all'interno del Wyrmrest Accord. Subito individuarono una manciata di uova di drago crepuscolare nell'Osdidian Sanctum. Con le loro risorse già tese nell'affrontare il Flagello e il Blue Dragonfight, il consorte di Alexstrasza, Korialstrasz, ha inviato la notizia al Consiglio dei Sei di Dalaran nella speranza che gli avventurieri possano entrare nel sanctum e distruggere la contorta progenie di Alamorte!",
+          "text2": "GUARDA IL TRAILER",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://azerothshard.org/forums/info-e-guide-ufficiali/3905/#p12879\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEGGI LA GUIDA</a> ",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header10",
+          "_anchor": "header10-25"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#e74c3c"
+            },
+            "P": {
+              "color": "#e74c3c"
+            },
+            "B": {
+              "color": "#e74c3c"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "title": "OBSIDIAN HEROES",
+          "meta": "<b><br></b>I vincitori della First Kill ! Qui verranno pubblicati i nomi, una foto di gruppo ed il video della First Kill.\n<br>\n<br>COMIN SOON!<b><br></b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-26"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#f1c40f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f1c40f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f1c40f"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#f1c40f"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f1c40f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1c40f!important"
+            },
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#f1c40f",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ADVENTURE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INCURSIONI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">OBSIDIAN SANCTUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blacktemple2018.html\">BLACK TEMPLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naxxramas2018.html\">NAXXRAMAS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://azerothshard.org\" target=\"_blank\">azerothshard.org</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://www.facebook.com/AzerothShard/\" target=\"_blank\">facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fb-icon-gold-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZEROTH ADVENTURE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-28"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "color": "#e74c3c"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#e74c3c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/115993-1512x945.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mount-1-600x480.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/morph-600x458.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pet-600x451.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aura-600x491.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/features/05.jpg",
+              "class": "features-img",
+              "width": 600
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/features/06.jpg",
+              "class": "features-img",
+              "width": 600
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title": "REWARDS",
+          "title1": "Bootstrap 4",
+          "subtitle1": "MOUNT DA COMBATTIMENTO",
+          "caption1": " Uno dei reward più ambiti delle quest dell'Adventure è di certo la mount da combattimento presente solo su AzerothShard! Essa difatti oltre ad essere utile per gli spostamenti, offrirà una serie di spell e buff da utilizzare mentre si è in volo o al galoppo!",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "MORPH DA COMBATTIMENTO",
+          "caption2": "Il morph da combattimento è uno speciale reward che vi permetterà di trasformarvi in una delle creature del game per un determinato periodo di tempo. Potrete utilizzare le vostre comuni spell o, in determinati casi, utilizzare delle spell custom integrate nel morph stesso!",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "PET DA COMBATTIMENTO",
+          "caption3": "&nbsp;Il pet da combattimento by AzerothShard è uno speciale Vanity Item che vi permetterà di evocare un infinità di pet diversi che sono provvisti di spell da combattimento! Potete portarli in giro e farli combattere tra loro in duello! Ne abbiamo realizzato alcuni appositamente per Obsiodian Sanctum. Non perdeteveli!",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "AUREE, VEICOLI E VANITY ITEMS ESCLUSIVI!!",
+          "caption4": "Il raid che completerà la First Kill, oltre a ricevere i rewards della quest stessa, avrà la possibilità di ottenere rewards ESCLUSIVI (li possederete solo voi in tutto il server) tra cui un Aura da poter applicare in ogni momento pavoneggiandovi davanti ai vostri compagni!",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-29"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#e74c3c"
+            },
+            "P": {
+              "color": "#d35400"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "title": "Media",
+          "meta": "Obsidian Sanctum",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2a"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-3-0-13-6-36-193320.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kel-thuzad-archlich-of-naxxramas-by-mr-jack-dbtjosr-1-1280x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kel-thuzad-archlich-of-naxxramas-by-mr-jack-dbtjosr-1-1280x800-800x449.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=5tLbmHvqFx8",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/czosqgc-1600x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/czosqgc-1600x900-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/obsidian-sanctum-entrance-1-1280x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/obsidian-sanctum-entrance-1-1280x1024-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/fpf-wyrmrest-temple-chamberofaspects-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fpf-wyrmrest-temple-chamberofaspects-1920x1080-800x450.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "ALL",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2b"
         }
       ]
     }
